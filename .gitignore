@@ -1,0 +1,9 @@
+
+.idea/
+__pycache__/
+*.pyc
+*.json
+*.parquet
+*.log
+*.pkl
+*.txt

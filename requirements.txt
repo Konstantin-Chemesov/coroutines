@@ -1,0 +1,6 @@
+# кроме стандартных библиотек python
+flake8==6.1.0
+pandas==1.5.0
+pyarrow==13.0.0
+pyyaml==6.0.1
+python-box[all]~=7.0
